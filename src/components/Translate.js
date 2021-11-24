@@ -47,6 +47,7 @@ export default function Translate() {
     );
 
     getLanguageSource()
+  // eslint-disable-next-line
   }, [inputText])
 
   return (
