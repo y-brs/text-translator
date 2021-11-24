@@ -1,5 +1,9 @@
 # Text Translator
 
+https://text-translator-52ba52.netlify.app
+
+![Screenshot 2021-11-24 at 18 18 45](https://user-images.githubusercontent.com/68222437/143285697-992eec21-8f40-451f-87bb-c12bdcbe4ee9.png)
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
